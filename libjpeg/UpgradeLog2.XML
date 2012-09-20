@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libjpeg">
+</Property><Property Name="Solution File" Value="C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.sln">
+</Property><Property Name="User Options File" Value="C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.suo">
+</Property><Property Name="Date" Value="giovedì 20 settembre 2012">
+</Property><Property Name="Time" Value="16.07">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="libjpeg.sln" Description="File successfully backed up as C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="libjpeg.suo" Description="File successfully backed up as C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.suo.old">
+</Event><Event ErrorLevel="0" Project="libjpeg" Source="libjpeg.vcproj" Description="Converting project file 'C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.vcproj'.">
+</Event><Event ErrorLevel="1" Project="libjpeg" Source="libjpeg.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="libjpeg" Source="libjpeg.vcproj" Description="Attribute 'Detect64BitPortabilityProblems' of 'VCCLCompilerTool' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="libjpeg" Source="libjpeg.vcproj" Description="MSB8012: $(TargetPath) ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\.\Debug\libjpeg.lib') does not match the Librarian's OutputFile property value '.\Debug\libjpeg.lib' ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\Debug\libjpeg.lib') in project configuration 'Debug|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="libjpeg" Source="libjpeg.vcproj" Description="MSB8012: $(TargetPath) ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\x64\Debug\libjpeg.lib') does not match the Librarian's OutputFile property value '.\Debug\libjpeg.lib' ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\Debug\libjpeg.lib') in project configuration 'Debug|x64'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="libjpeg" Source="libjpeg.vcproj" Description="MSB8012: $(TargetPath) ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\.\Release\libjpeg.lib') does not match the Librarian's OutputFile property value '.\Release\libjpeg.lib' ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\Release\libjpeg.lib') in project configuration 'Release|Win32'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="1" Project="libjpeg" Source="libjpeg.vcproj" Description="MSB8012: $(TargetPath) ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\x64\Release\libjpeg.lib') does not match the Librarian's OutputFile property value '.\Release\libjpeg.lib' ('C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\Release\libjpeg.lib') in project configuration 'Release|x64'. This may cause your project to build incorrectly. To correct this, please make sure that $(TargetPath) property value matches the value specified in %(Lib.OutputFile).">
+</Event><Event ErrorLevel="0" Project="libjpeg" Source="libjpeg.vcproj" Description="Done converting to new project file 'C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="libjpeg" Source="libjpeg.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="libjpeg.sln" Description="The solution file does not require conversion.">
+</Event><Event ErrorLevel="3" Project="" Source="libjpeg.sln" Description="No Conversion Required">
+</Event></UpgradeLog>

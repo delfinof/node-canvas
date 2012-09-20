@@ -3,9 +3,10 @@
     ['OS=="win"', {
       'variables': {
         'GTK_Root%': 'C:/GTK',  # Set the location of GTK all-in-one bundle
-        'with_jpeg%': 'false',
+        'with_jpeg%': 'true',
         'with_gif%': 'false',
-        'with_pango%': 'false'
+        'with_pango%': 'false',
+        'jpeg_root%': "../libjpeg"
       }
     }, { # 'OS!="win"'
       'variables': {
@@ -32,10 +33,12 @@
       'conditions': [
         ['OS=="win"', {
           'libraries': [
-            '-l<(GTK_Root)/lib/cairo.lib'
+            '-l<(GTK_Root)/lib/cairo.lib',
+            '-l<(jpeg_root)/Release/libjpeg.lib'
           ],
           'include_dirs': [
             '<(GTK_Root)/include',
+            '<(jpeg_root)'
           ],
           'defines': [
             'snprintf=_snprintf',
@@ -73,7 +76,7 @@
           'conditions': [
             ['OS=="win"', {
               'libraries': [
-                '-l<(GTK_Root)/lib/jpeg.lib'
+                '-l<(jpeg_root)/Release/libjpeg.lib'
               ]
             }, {
               'libraries': [

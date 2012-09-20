@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="libjpeg">
+</Property><Property Name="Solution File" Value="C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\libjpeg.sln">
+</Property><Property Name="Date" Value="giovedì 20 settembre 2012">
+</Property><Property Name="Time" Value="16.07">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="libjpeg.sln" Description="File successfully backed up as C:\SkyDrive\Programming\nodejs_devel\jpeglib\windowsx64\Backup\libjpeg.sln">
+</Event><Event ErrorLevel="0" Project="" Source="libjpeg.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="libjpeg.sln" Description="Converted">
+</Event></UpgradeLog>
